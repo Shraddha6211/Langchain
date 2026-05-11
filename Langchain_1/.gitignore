@@ -1,0 +1,32 @@
+# Python Bytecode and Source
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments and Packages
+.venv/
+venv/
+env/
+ENV/
+__pypackages__/
+build/
+develop-eggs/
+dist/
+*.egg-info/
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+*.swp
+.spyproject
+
+# Environment Variables and Data
+.env
+.flaskenv
+db.sqlite3
+
+# Test and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
